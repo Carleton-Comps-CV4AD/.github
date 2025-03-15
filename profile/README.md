@@ -10,6 +10,7 @@
 | David Toledo   | dtoledo1125@gmail.com  |
 | Ethan Masadde  | masaddee@carleton.edu |
 | Josh Meier     | joshmeier456@gmail.com   |
+| Tanya Amert (advisor) | tamert@carleton.edu | 
 
 For our Senior capstone project, or Comps as Carleton likes to call it, we dove into two specific tasks in the perception step of an autonomous driving car: Semantic Segmentation and Instance Segmentation. Then we investigated the impact of adverse weather on the performance of these tasks, and implemented multiple mitigation strategies to bring performance back up to the baseline. At the heart of this project was also the usage of the simulator CARLA to produce an image dataset with semantic segmentation ground truth values and a video dataset (of frames at 6 fps) with instance segmentation ground truths. 
 
