@@ -7,7 +7,7 @@
 | Ben Zhao       | benzhao90@gmail.com   |
 | Nathaniel Li   | lin@carleton.edu      |
 | Julian Tanguma | tangumaj@carleton.edu |
-| David Toledo   | toledod@carleton.edu  |
+| David Toledo   | dtoledo1125@gmail.com  |
 | Ethan Masadde  | masaddee@carleton.edu |
 | Josh Meier     | joshmeier456@gmail.com   |
 
