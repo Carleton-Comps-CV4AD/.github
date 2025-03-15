@@ -13,7 +13,7 @@
 
 For our Senior capstone project, or Comps as Carleton likes to call it, we dove into two specific tasks in the perception step of an autonomous driving car: Semantic Segmentation and Instance Segmentation. Then we investigated the impact of adverse weather on the performance of these tasks, and implemented multiple mitigation strategies to bring performance back up to the baseline. At the heart of this project was also the usage of the simulator CARLA to produce an image dataset with semantic segmentation ground truth values and a video dataset (of frames at 6 fps) with instance segmentation ground truths. 
 
-The repositories inside this organization include all the code necessary to reproduce our project's data collection in CARLA, the training and evaluation of the semantic segmenation and instance segmentation models, and the domain adaptation, image processing, and sensor fusion strategies to improve performance of those models.
+The repositories inside this organization include all the code necessary to reproduce our project's data collection in CARLA, the training and evaluation of the semantic segmentation and instance segmentation models, and the domain adaptation, image processing, and sensor fusion strategies to improve the performance of those models.
 
 
 ### Data Collection in CARLA
@@ -24,7 +24,7 @@ The repositories inside this organization include all the code necessary to repr
 
 - [semantic-segmentation](https://github.com/Carleton-Comps-CV4AD/semantic-segmentation): This repo holds the code used to train and evaluate the semantic segmentation model we chose: an HRNETV2 encoder adapted from MIT's ADE20k implementations. See its own documentation for more details.
 
-- [instance-segmentation](): This repo holds the code used to train and evaluate the instance segmentation model we chose: MaskTrack-RCNN which we use through the MMDetection open source object detection framework. See its own documentation for more details.
+- [instance-segmentation](https://github.com/Carleton-Comps-CV4AD/instance-segmentation): This repo holds the code used to train and evaluate the instance segmentation model we chose: MaskTrack-RCNN which we use through the MMDetection open source object detection framework. See its own documentation for more details.
 
 ### Mitigating the Effects of Weather
 
